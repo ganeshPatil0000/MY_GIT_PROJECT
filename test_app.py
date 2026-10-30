@@ -1,5 +1,5 @@
 from app import greet
-from utils import add
+from app import add
 
 def test_greet():
     assert "Ganesh" in greet("Ganesh")
