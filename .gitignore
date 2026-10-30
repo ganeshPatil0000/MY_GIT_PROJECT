@@ -7,7 +7,7 @@ __pycache__/
 .venv/
 
 # Secrets - NEVER push these
-
+.env
 
 # Editor
 .vscode/
