@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}! Welcome to my Git project."
+    return f"Hi {name}! Great to see you here."
 
 if __name__ == "__main__":
     print(greet("Ganesh"))
