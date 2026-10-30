@@ -1,0 +1,15 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Secrets - NEVER push these
+.env
+
+# Editor
+.vscode/
+.idea/
+EOF
